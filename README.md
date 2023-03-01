@@ -1,4 +1,4 @@
-# codebasics-sql-challange
+# codebasics-sql-challenge
 
 Introduction:
 Atliq hardware (Imaginary Company) is one of the leading computer hardware producers in India and well expanded in other countries too.
